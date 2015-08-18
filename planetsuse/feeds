@@ -1,19 +1,6 @@
-feed 15m https://klbrg.wordpress.com/feed/
-	define_name Tom Kulberg
-	define_lang en
-	define_irc tomkulbergtk
-
 feed 15m http://www.planetaunix.com.br
 	define_name Fábio dos Reis
 	define_lang pt
-
-
-feed 15m http://blog.mattos.eng.br/feed/
-	define_name Leonardo M. N. de Mattos
-	define_lang pt
-#	define_face leomattos
-        define_member 1
-        define_irc analyser
 
 feed 15m https://susejackinthegreen.wordpress.com/
 	define_name Vinícius B. Rodrigues
@@ -1393,9 +1380,9 @@ feed 15m http://lizards.opensuse.org/author/marcusmoeller/feed/
 #	define_lang id
 #	define_member 1
 
-feed 15m http://blog.matwey.name/feeds/posts/default/-/opensuse
-	define_name Matwey Kornilov
-	define_lang ru
+#feed 15m http://0x2207.blogspot.com/feeds/posts/default/-/opensuse
+#	define_name Matwey Kornilov
+#	define_lang ru
 
 feed 15m http://tux-the-penguin.blogspot.com/feeds/posts/default
 	define_name Anton Chernyshov
